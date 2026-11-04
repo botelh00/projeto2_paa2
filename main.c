@@ -3,7 +3,7 @@
 // Matheus Santos Medeiros, RA:10748040 
 // Pedro Araujo Botelho, RA:10738317
 
-//Conversa com gemini: https://share.gemini.google/NEVyMziL6C8a
+//Conversa com gemini: https://share.gemini.google/LrZix2jBR5ZA
 
 #include <stdio.h>
 #include <stdlib.h>
